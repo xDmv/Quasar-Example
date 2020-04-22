@@ -1,0 +1,10 @@
+{
+  "appId": "org.example.com",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://172.31.0.1:8080"
+  }
+}
